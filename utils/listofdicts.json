@@ -1,0 +1,14 @@
+[
+    {
+        "topic": "cs",
+        "name": "Computer Science"
+    },
+    {
+        "topic": "econ",
+        "name": "Economics"
+    },
+    {
+        "topic": "math",
+        "name": "Mathematics"
+    }
+]

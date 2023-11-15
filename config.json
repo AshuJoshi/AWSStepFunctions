@@ -1,0 +1,12 @@
+{
+    "ddb" : {
+        "tableName" : "StepFunctionsProjectDDBTable",
+        "partitionKeyName" : "mapstatelist",
+        "partitionKeyValueField" : "mapitems"
+    },
+    "stepfunc" : {
+        "maxConcurrency" : 1,
+        "waitDurationSeconds" : 2,
+        "timeoutDurationSeconds": 20
+    }
+}
